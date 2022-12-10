@@ -34,6 +34,7 @@ yarn-error.log*
 # ignore sanity
 sanity
 
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
